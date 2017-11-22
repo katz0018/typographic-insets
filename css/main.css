@@ -118,10 +118,10 @@ figcaption {
 blockquote {
   float: left;
   width: 300px;
-  padding: .2em;
+  padding: 6px 0;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  margin: 0;
+  margin: .3em .4em;
   text-align: right;
   font-size: 1.5rem;
   color: #666;
