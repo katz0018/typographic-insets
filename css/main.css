@@ -91,7 +91,10 @@ footer {
   background-color: #666;
   border-top: 3px solid #333;
   border-bottom:  3px solid #333;
-  color:
+  color: #f2f2f2;
+  padding: .4em .2em;
+  font-size: 5rem;
+  float: left;
 }
 
 figure {
