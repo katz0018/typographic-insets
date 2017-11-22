@@ -106,8 +106,9 @@ figure {
   margin: 0;
   font-size: .875rem;
   font-style: italic;
-  border-top: 3px solid #666;
-  border-bottom: 3px solid #666;
+  color: #666;
+  border-top: 3px solid #333;
+  border-bottom: 3px solid #333;
 }
 
 figcaption {
@@ -118,10 +119,10 @@ blockquote {
   float: left;
   width: 300px;
   padding: .2em;
-  border-top: 3px solid #666;
-  border-bottom: 3px solid #666;
+  border-top: 3px solid #333;
+  border-bottom: 3px solid #333;
   margin: 0;
   text-align: right;
   font-size: 1.5rem;
-  font-style: italic;
+  color: #666;
 }
