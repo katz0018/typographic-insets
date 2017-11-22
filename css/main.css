@@ -99,12 +99,6 @@ footer {
   margin: .1em;
 }
 
-img{
-  border-top: 3px solid #666;
-  border-bottom: 3px solid #666;
-  padding: .3em;
-}
-
 figure {
   float: right;
   width: 300px;
@@ -112,6 +106,8 @@ figure {
   margin: 0;
   font-size: .875rem;
   font-style: italic;
+  border-top: 3px solid #666;
+  border-bottom: 3px solid #666;
 }
 
 figcaption {
